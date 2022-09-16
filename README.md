@@ -54,6 +54,8 @@ what I learned in making this challenge is:
 
 1. i learn how to styling using tailwind library
 2. if using tailwind library we should to costumized for in accordance with reqruitments
+3. id on html element must unique
+4. must using h1 if using lang="en"
 
 ### Continued development
 
